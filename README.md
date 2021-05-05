@@ -1,4 +1,4 @@
-# node_modules folder is not available since it is very large, if you need to run the app please create a npm app and then just paste the src files into it to run it correctly
+# node_modules folder is not available since it is very large, if you need to run the app please create a npm app and then just paste the src files into it to run it correctly, also please verify the package.json files in order to confirm the correct versions of all libraries
 
 Any doubt or concern please do not hesitate to contact me: gilgamesh_0@hotmail.com
 
