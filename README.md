@@ -1,3 +1,8 @@
+#node_modules folder is not available since it is very large, if you need to run the app please create a
+#npm app and then just paste the src files into it to run it correctly
+
+Any doubt or concern please do not hesitate to contact me: gilgamesh_0@hotmail.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
