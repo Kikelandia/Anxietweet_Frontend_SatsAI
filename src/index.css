@@ -1,0 +1,52 @@
+body {
+  background: #532f8c;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+input, textarea{
+    color: black;
+}
+
+.anxietweetMain {
+  color: white;
+  padding-bottom: 80px
+}
+
+.anxietweetMain .btn-primary {
+  background: #845ac7;
+  border-color: #845ac7
+}
+
+.anxietweetMain .btn-primary:hover {
+  background: #7646c1
+}
+
+.anxietweetMain .btn-secondary {
+  background: blue;
+  border-color: blue
+}
+
+.anxieLogo {
+  display: block;
+  background: #b01302;
+  border-radius: 40%;
+  overflow: hidden;
+  width: 300px;
+  height: 250px;
+  margin: auto;
+  border: 2px solid white
+}
+
+.anxieLogo img {
+  max-width: 100%
+}
